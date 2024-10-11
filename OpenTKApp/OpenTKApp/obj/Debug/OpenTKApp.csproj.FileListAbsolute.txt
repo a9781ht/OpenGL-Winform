@@ -1,0 +1,15 @@
+C:\Users\OpenCNC\Desktop\OpenGL_Winform\OpenTKApp\OpenTKApp\bin\Debug\OpenTKApp.exe.config
+C:\Users\OpenCNC\Desktop\OpenGL_Winform\OpenTKApp\OpenTKApp\bin\Debug\OpenTKApp.exe
+C:\Users\OpenCNC\Desktop\OpenGL_Winform\OpenTKApp\OpenTKApp\bin\Debug\OpenTKApp.pdb
+C:\Users\OpenCNC\Desktop\OpenGL_Winform\OpenTKApp\OpenTKApp\bin\Debug\OpenTK.dll
+C:\Users\OpenCNC\Desktop\OpenGL_Winform\OpenTKApp\OpenTKApp\bin\Debug\OpenTK.pdb
+C:\Users\OpenCNC\Desktop\OpenGL_Winform\OpenTKApp\OpenTKApp\bin\Debug\OpenTK.GLControl.dll
+C:\Users\OpenCNC\Desktop\OpenGL_Winform\OpenTKApp\OpenTKApp\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\OpenCNC\Desktop\OpenGL_Winform\OpenTKApp\OpenTKApp\obj\Debug\OpenTKApp.csproj.AssemblyReference.cache
+C:\Users\OpenCNC\Desktop\OpenGL_Winform\OpenTKApp\OpenTKApp\obj\Debug\OpenTKApp.Properties.Resources.resources
+C:\Users\OpenCNC\Desktop\OpenGL_Winform\OpenTKApp\OpenTKApp\obj\Debug\OpenTKApp.csproj.GenerateResource.cache
+C:\Users\OpenCNC\Desktop\OpenGL_Winform\OpenTKApp\OpenTKApp\obj\Debug\OpenTKApp.csproj.CoreCompileInputs.cache
+C:\Users\OpenCNC\Desktop\OpenGL_Winform\OpenTKApp\OpenTKApp\obj\Debug\OpenTKApp.csproj.Up2Date
+C:\Users\OpenCNC\Desktop\OpenGL_Winform\OpenTKApp\OpenTKApp\obj\Debug\OpenTKApp.exe
+C:\Users\OpenCNC\Desktop\OpenGL_Winform\OpenTKApp\OpenTKApp\obj\Debug\OpenTKApp.pdb
+C:\Users\OpenCNC\Desktop\OpenGL_Winform\OpenTKApp\OpenTKApp\obj\Debug\OpenTKApp.Form1.resources

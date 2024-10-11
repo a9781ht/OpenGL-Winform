@@ -1,0 +1,15 @@
+C:\Users\OpenCNC\Desktop\OpenGL_Winform\SharpGLApp\SharpGLApp\bin\Debug\SharpGLApp.exe.config
+C:\Users\OpenCNC\Desktop\OpenGL_Winform\SharpGLApp\SharpGLApp\bin\Debug\SharpGLApp.exe
+C:\Users\OpenCNC\Desktop\OpenGL_Winform\SharpGLApp\SharpGLApp\bin\Debug\SharpGLApp.pdb
+C:\Users\OpenCNC\Desktop\OpenGL_Winform\SharpGLApp\SharpGLApp\bin\Debug\SharpGL.dll
+C:\Users\OpenCNC\Desktop\OpenGL_Winform\SharpGLApp\SharpGLApp\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\OpenCNC\Desktop\OpenGL_Winform\SharpGLApp\SharpGLApp\bin\Debug\SharpGL.WinForms.dll
+C:\Users\OpenCNC\Desktop\OpenGL_Winform\SharpGLApp\SharpGLApp\bin\Debug\System.Drawing.Common.dll
+C:\Users\OpenCNC\Desktop\OpenGL_Winform\SharpGLApp\SharpGLApp\obj\Debug\SharpGLApp.csproj.AssemblyReference.cache
+C:\Users\OpenCNC\Desktop\OpenGL_Winform\SharpGLApp\SharpGLApp\obj\Debug\SharpGLApp.Form1.resources
+C:\Users\OpenCNC\Desktop\OpenGL_Winform\SharpGLApp\SharpGLApp\obj\Debug\SharpGLApp.Properties.Resources.resources
+C:\Users\OpenCNC\Desktop\OpenGL_Winform\SharpGLApp\SharpGLApp\obj\Debug\SharpGLApp.csproj.GenerateResource.cache
+C:\Users\OpenCNC\Desktop\OpenGL_Winform\SharpGLApp\SharpGLApp\obj\Debug\SharpGLApp.csproj.CoreCompileInputs.cache
+C:\Users\OpenCNC\Desktop\OpenGL_Winform\SharpGLApp\SharpGLApp\obj\Debug\SharpGLApp.csproj.Up2Date
+C:\Users\OpenCNC\Desktop\OpenGL_Winform\SharpGLApp\SharpGLApp\obj\Debug\SharpGLApp.exe
+C:\Users\OpenCNC\Desktop\OpenGL_Winform\SharpGLApp\SharpGLApp\obj\Debug\SharpGLApp.pdb

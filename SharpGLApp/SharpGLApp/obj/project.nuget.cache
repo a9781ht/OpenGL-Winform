@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "jUehoEDeuzgTwS0dABKI+984DL1oEkcru1RONuuE0nEWiorMqJqJRfzTTDJVbIBNaTIA5D3mev7yiSY8SlEeeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\OpenCNC\\Desktop\\OpenGL_Winform\\SharpGLApp\\SharpGLApp\\SharpGLApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OpenCNC\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\OpenCNC\\.nuget\\packages\\sharpgl\\3.1.1\\sharpgl.3.1.1.nupkg.sha512",
+    "C:\\Users\\OpenCNC\\.nuget\\packages\\sharpgl.scenegraph\\3.1.1\\sharpgl.scenegraph.3.1.1.nupkg.sha512",
+    "C:\\Users\\OpenCNC\\.nuget\\packages\\sharpgl.winforms\\3.1.1\\sharpgl.winforms.3.1.1.nupkg.sha512",
+    "C:\\Users\\OpenCNC\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512",
+    "C:\\Users\\OpenCNC\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\OpenCNC\\Desktop\\OpenGL_Winform\\OpenTKApp\\OpenTKApp\\OpenTKApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\OpenCNC\\Desktop\\OpenGL_Winform\\OpenTKApp\\OpenTKApp\\OpenTKApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\OpenCNC\\Desktop\\OpenGL_Winform\\OpenTKApp\\OpenTKApp\\OpenTKApp.csproj",
+        "projectName": "OpenTKApp",
+        "projectPath": "C:\\Users\\OpenCNC\\Desktop\\OpenGL_Winform\\OpenTKApp\\OpenTKApp\\OpenTKApp.csproj",
+        "packagesPath": "C:\\Users\\OpenCNC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\OpenCNC\\Desktop\\OpenGL_Winform\\OpenTKApp\\OpenTKApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\OpenCNC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net481"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gitlab.syntecclub.com/api/v4/groups/5/-/packages/nuget/index.json": {}
+        },
+        "frameworks": {
+          "net481": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net481": {
+          "dependencies": {
+            "OpenTK.GLControl": {
+              "target": "Package",
+              "version": "[3.3.3, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

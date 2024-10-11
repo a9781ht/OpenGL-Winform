@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2QNsAtDK9D8O1AB7URyQwWqlxPCmHUvDw/YmOrcY6rItkhwWeFYfldUrX287ysAnWcKRKzrtglRZsDjop1rmRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\OpenCNC\\Desktop\\OpenGL_Winform\\OpenTKApp\\OpenTKApp\\OpenTKApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OpenCNC\\.nuget\\packages\\opentk\\3.3.3\\opentk.3.3.3.nupkg.sha512",
+    "C:\\Users\\OpenCNC\\.nuget\\packages\\opentk.glcontrol\\3.3.3\\opentk.glcontrol.3.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}
